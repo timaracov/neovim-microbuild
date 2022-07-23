@@ -1,10 +1,12 @@
 # neovim-microbuild
 ## Easy to install neovim configuration
+### Requirements: Neovim, nodejs
 
 ```sh
-# requirements: Neovim, nodejs
-# Run to install:
+# Installation:
 $ sh install.sh
-
-# You should also run coc-install ... to add language servers for neovim
 ```
+
+---
+
+You should also install language servers with coc-install <langauge-server-name> inside neovim
