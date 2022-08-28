@@ -11,4 +11,4 @@ $ sh install.sh
 
 You should also install language servers with coc-install <langauge-server-name> inside neovim
 
-😽
+# 😽
